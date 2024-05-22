@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tp2_HalloView</string>
+    <string name="hallo_txt">Hello</string>
+    <string name="tvNameTxt">Name:</string>
+    <string name="eTlabel">Enter a name</string>
+    <string name="txtsalut">envoyer!</string>
+    <string name="txtsalut1">hello,</string>
+    <string name="bTettiqu">hello,</string>
+</resources>
+
